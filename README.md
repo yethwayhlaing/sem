@@ -1,8 +1,7 @@
 # SEM_Demo
 
-Master Build [![A workflow for my Hello World App](https://github.com/yethwayhlaing/sem/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/yethwayhlaing/sem/actions/workflows/main.yml)
+Master Build ![workflow](https://github.com/yethwayhlaing/sem/actions/workflows/main.yml/badge.svg?branch=master)
 
-Develop Build [![A workflow for my Hello World App](https://github.com/yethwayhlaing/sem/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/yethwayhlaing/sem/actions/workflows/main.yml)
+Develop Build ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/yethwayhlaing/sem/main.yml?branch=develop)
 
-[![License](https://img.shields.io/github/license/yethwayhlaing/sem.svg?style=flat-square)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/yethwayhlaing/sem?style=flat-square)](https://github.com/yethwayhlaing/sem/releases)
+![license](https://img.shields.io/github/license/yethwayhlaing/sem.svg?style=flat-square) ![release](https://img.shields.io/github/v/release/yethwayhlaing/sem?style=flat-square)
